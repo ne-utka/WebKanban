@@ -1,1 +1,1 @@
-https://web-a555.onrender.com/
+https://web-kanban-nle5dq310-neutkas-projects.vercel.app/
